@@ -1,0 +1,5 @@
+grpcio-tools
+flask==2.0.3
+Jinja2==3.0
+pytest
+MarkupSafe==2.1.1

@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 grpcio-tools = "*"
+flask = "*"
+jinja2 = "*"
+pytest = "*"
 
 [dev-packages]
 
